@@ -9,8 +9,6 @@ I'm currently enhancing my knowledge of Flutter and Dart, diving into areas like
 
 LinkedIn: www.linkedin.com/in/diana-medetovna-295184332
 Email: dieldi43@gmail.com
-⚡ Fun Fact
-I enjoy reading and love to stay active during my free time!
 
 🤝 Let's Connect
 I’m always open to discussing tech, collaborating on projects, or just connecting with fellow developers. Feel free to reach out!
