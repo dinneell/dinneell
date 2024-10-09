@@ -1,9 +1,6 @@
+Hi there, I'm Diana 👋 Flutter Developer | Mobile App Enthusiast 
 
-Got it! Here’s a completely new version tailored for you, Diana:
-
-Hi there, I'm Diana 👋 Flutter Developer | Mobile App Enthusiast | Tech Explorer
-
-Welcome to my GitHub profile! I’m a Flutter developer passionate about creating user-friendly and efficient mobile applications. Currently, I'm studying at the Zhambyl Innovative Higher College in Taraz, where I’m sharpening my skills and exploring new technologies.
+Welcome to my GitHub profile! I’m a Flutter developer passionate about creating user-friendly and efficient mobile applications. Currently, I'm studying at the Zhambyl Innovative High College in Taraz, where I’m sharpening my skills and exploring new technologies.
 
 🌱 What I'm Focusing On
 I'm currently enhancing my knowledge of Flutter and Dart, diving into areas like state management, animations, and custom widgets. I’m excited about learning more about mobile technologies and best practices in app development.
