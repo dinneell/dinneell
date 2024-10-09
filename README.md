@@ -7,7 +7,8 @@ I'm currently enhancing my knowledge of Flutter and Dart, diving into areas like
 
 📫 How to Reach Me
 
-LinkedIn: www.linkedin.com/in/diana-medetovna-295184332
+LinkedIn: www.linkedin.com/in/dinneell
+
 Email: dieldi43@gmail.com
 
 🤝 Let's Connect
